@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * Servlet implementation class FormSampleServlet
+ * Servlet implementation class FormSampleServle
  */
 @WebServlet("/FormSampleServlet")
 public class FormSampleServlet extends HttpServlet {
